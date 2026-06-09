@@ -14,7 +14,7 @@ La nouvelle génération de plateforme dédiée aux serveurs gaming et communaut
 
 [![Website](https://img.shields.io/badge/Website-game--rank.com-blue?style=for-the-badge)](https://game-rank.com)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-GameRank-181717?style=for-the-badge&logo=github)](https://github.com/GameRank)
+[![GitHub](https://img.shields.io/badge/GitHub-game-rank-com-181717?style=for-the-badge&logo=github)](https://github.com/game-rank-com)
 
 </div>
 
@@ -65,9 +65,9 @@ FiveM • Minecraft • DayZ • Rust • ARK • Palworld • Roblox • Projec
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GameRank&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=game-rank-com&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GameRank&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=game-rank-com&theme=tokyonight"/>
 
 </div>
 
@@ -100,8 +100,8 @@ FiveM • Minecraft • DayZ • Rust • ARK • Palworld • Roblox • Projec
 <img src="https://img.shields.io/badge/Site_Web-Game_Rank-blue?style=for-the-badge&logo=googlechrome"/>
 </a>
 
-<a href="https://github.com/GameRank">
-<img src="https://img.shields.io/badge/GitHub-GameRank-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/game-rank-com">
+<img src="https://img.shields.io/badge/GitHub-game-rank-com-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
